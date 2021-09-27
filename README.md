@@ -10,3 +10,5 @@ I'd self-describe as a foodie, and a proud Torontonian #YYZ
 * 💬 Talk to me about pure maths or computer science. I'm always up for a good chat.
 * ⚡ Fun fact: The singular of spaghetti, is spaghetto 😲
 * 📫 How to reach me: akira.takaki@utoronto.ca
+
+### ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
